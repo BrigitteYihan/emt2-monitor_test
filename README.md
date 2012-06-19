@@ -3,9 +3,9 @@ emt2-monitor
 automatic file-monitor for emt2
 The base path where all this code is stored will be referred to as $(yihan-monitor)
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%% THIRD PARTY RESOURCES %%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% THIRD PARTY RESOURCES %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The monitor script package uses the third party codes wini.cpp.
 When using the monitor package, the wini.cpp must be installed.  The wini.cpp is a part of
